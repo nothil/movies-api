@@ -1,15 +1,21 @@
+## Movie-api
 
-## Available Scripts
+This project allow users to search moviea and display the contents. It fetches the data from OMdbapi
 
-In the project directory, you can run:
+### To run this project 
 
-### `npm start`
+``git clone https://github.com/nothil/movies-api.git``
 
-Runs the app in the development mode.<br>
+### Install dependencies 
+
+```Run npm install```
+
+### Run this project Locally
+
+``npm start``
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
-### `npm run build`
 
 
 
