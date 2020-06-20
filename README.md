@@ -1,6 +1,11 @@
 ## Movie-api
 
-This project allow users to search moviea and display the contents. It fetches the data from OMdbapi
+This project allow users to search  for movies and display the contents. It fetches the data from OMdbapi.
+
+user will be able to:
+* Search for a movie by name
+* Navigate between search and movie list
+
 
 ### To run this project 
 
@@ -10,7 +15,7 @@ This project allow users to search moviea and display the contents. It fetches t
 
 ```Run npm install```
 
-### Run this project Locally
+### Run this project locally
 
 ``npm start``
 
